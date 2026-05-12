@@ -1,0 +1,12 @@
+# Exclude original PDFs (backed up locally / cloud)
+papers/*.pdf
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
