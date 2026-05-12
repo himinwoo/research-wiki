@@ -1,6 +1,9 @@
 # Exclude original PDFs (backed up locally / cloud)
 papers/*.pdf
 
+# OpenCode session continuations
+.sisyphus/
+
 # macOS
 .DS_Store
 
