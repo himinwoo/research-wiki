@@ -13,3 +13,8 @@ papers/*.pdf
 *.swp
 *.swo
 *~
+
+# Obsidian local workspace state
+.obsidian/workspace*.json
+.obsidian/cache/
+.obsidian/plugins/

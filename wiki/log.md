@@ -10,4 +10,5 @@ YYYY-MM-DD — [Action] — Author-Year-Title — Category
 
 ## Entries
 
+2026-05-12 — Updated — Obsidian-vault-setup — repository
 2025-05-12 — Added — Domhof-2019-An-Extrinsic-Calibration-Tool-For-Radar-Camera-And-Lidar — multi-sensor

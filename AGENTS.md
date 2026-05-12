@@ -211,8 +211,10 @@ The value of this wiki is not in isolated summaries but in synthesized understan
 
 This repository is designed to be opened in [Obsidian](https://obsidian.md/).
 
+- Open the repository root (`research-wiki/`) as the Obsidian vault.
+- Use `Home.md` as the landing note for navigation.
 - All internal links use standard Markdown `[[wiki/{category}/{stem}]]` or relative paths.
-- The `wiki/` folder is the vault root for content browsing.
+- The `wiki/` folder is the content root for finished wiki pages.
 - Use graph view to discover connection gaps.
 - Use tags for thematic traversal across categories.
 
