@@ -16,12 +16,15 @@ A curated knowledge base for autonomous driving multi-sensor (camera, LiDAR, rad
 | [concepts](concepts/) | Key methods, algorithms, and mathematical concepts explained generically |
 | [overviews](overviews/) | Synthesis pages spanning multiple papers |
 
+## lidar-calib
+- [CMRNext: Camera to LiDAR Matching in the Wild for Localization and Extrinsic Calibration](wiki/lidar-calib/cattaneo-2025-cmrnext-camera-to-lidar-matching-in.md) — Sensor-agnostic deep learning for cross-modal matching; generalizes zero-shot to new cameras, LiDARs, and environments.
+
 ## Stats
 
 | Metric | Count |
 |---|---|
-| Papers | 1 |
-| Summaries | 1 |
+| Papers | 2 |
+| Summaries | 2 |
 
 ## Log
 

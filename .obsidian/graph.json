@@ -1,7 +1,7 @@
 {
-  "collapse-filter": true,
-  "search": "",
-  "showTags": true,
+  "collapse-filter": false,
+  "search": "(path:wiki/ -path:wiki/templates/ -path:wiki/log.md) OR file:Home",
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -12,13 +12,6 @@
       "color": {
         "a": 1,
         "rgb": 14701138
-      }
-    },
-    {
-      "query": "path:sources",
-      "color": {
-        "a": 1,
-        "rgb": 5737262
       }
     }
   ],
@@ -33,5 +26,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 1,
-  "close": false
+  "close": true
 }
